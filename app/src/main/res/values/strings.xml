@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">FILM</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nama_user">Anwar</string>
+    <string name="email_user">rilltheend@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="about">Versi Beta</string>
+
+    <string name="now_playing">Sedang Diputar</string>
+    <string name="up_coming">Akan Datang</string>
+
+    <string name="input_movie_title"> Masukan Judul Film</string>
+    <string name="search"> Cari </string>
+    <string name="synopsis_movie"> Sinopsis Film</string>
+    <string name="rls_date"> Tanggal Rilis</string>
+    <string name="synopsis"> Sinopsis</string>
+    <string name="rating_film"> 1000 Rating (9.9/10)</string>
+    <string name="rating"> Rating</string>
+    <string name="movie_title"> Judul Film</string>
+    <string name="postermovie"> Poster Film</string>
+    <string name="tgl_rilis">Minggu, 1 Jul, 1999</string>
+    <string name="share">Bagikan</string>
+    <string name="favorite">Favoritkan</string>
+    <string name="home">Beranda</string>
+    <string name="language">Bahasa</string>
+    <string name="detail">Detail</string>
+    <string name="favourite">Favourite</string>
+    <string name="ikhtisar">Rating</string>
+    <string name="jadwal">Jadwal</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="perhitungan">Perhitungan:</string>
+    <string name="popular">Popularitas</string>
+    <string name="movie">Film</string>
+    <string name="info">Tentang</string>
+</resources>
